@@ -18,6 +18,9 @@
  * @package WordPress
  */
 
+/*Actualización sin confirmar por FTP*/
+define('FS_METHOD','direct');
+
 // ** Ajustes de MySQL. Solcite esta información a su proveedor de alojamiento web. ** //
 /** El nombre de la base de datos de WordPress */
 define('DB_NAME', 'db_biblioteca');
